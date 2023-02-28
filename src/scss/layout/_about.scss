@@ -1,0 +1,13 @@
+.contenido-nosotros {
+    margin-bottom: 5rem;
+
+    @include tablet { 
+        @include grid (2, 2rem);
+    }
+
+    .txt-nosotros-bold {
+        font-weight: $bold;
+        margin-top: 3rem;
+    }
+}
+

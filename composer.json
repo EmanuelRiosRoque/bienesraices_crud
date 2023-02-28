@@ -1,0 +1,17 @@
+{
+    "name": "ema/bienesraices",
+    "description": "Creando con Poo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ema\\Bienesraices\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emanuel",
+            "email": "emanuel.roque.web@gmail.com"
+        }
+    ],
+    "require": {}
+}

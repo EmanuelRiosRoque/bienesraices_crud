@@ -1,0 +1,13 @@
+// //Sanitizar nuestro codigo
+    // $numero = "1Hola";
+    // $numero2 = 1;
+
+    // // SANITIZAR
+    // $resultado = filter_var($numero, FILTER_SANITIZE_NUMBER_INT); // Sanitiza unicamente inserta los numero que le hayamos escrito y el string lo elimina 
+
+    // // VALIDACION
+    // $resultado = filter_var($numero2, FILTER_VALIDATE_INT);
+
+
+    // var_dump($resultado);
+    // exit;
